@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T13:37:25Z" name="Default suite" finished-at="2024-03-08T13:38:31Z" duration-ms="66106">
+    <groups>
+      <group name="smoke">
+        <method signature="ToCreateALeadTest.toCreateALeadAndToVerifyTheLeadInfo()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" name="toCreateALeadAndToVerifyTheLeadInfo" class="vtiger.lead_module.ToCreateALeadTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-03-08T13:37:25Z" name="Default test" finished-at="2024-03-08T13:38:31Z" duration-ms="66106">
+      <class name="vtiger.lead_module.ToCreateALeadTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" started-at="2024-03-08T13:37:25Z" name="bsConfig" finished-at="2024-03-08T13:37:25Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" started-at="2024-03-08T13:37:25Z" name="bcConfig" finished-at="2024-03-08T13:37:39Z" duration-ms="13565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" started-at="2024-03-08T13:37:39Z" name="bmConfig" finished-at="2024-03-08T13:37:52Z" duration-ms="12855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="toCreateALeadAndToVerifyTheLeadInfo()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" started-at="2024-03-08T13:37:52Z" name="toCreateALeadAndToVerifyTheLeadInfo" finished-at="2024-03-08T13:38:28Z" duration-ms="35855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toCreateALeadAndToVerifyTheLeadInfo -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" started-at="2024-03-08T13:38:28Z" name="amConfig" finished-at="2024-03-08T13:38:30Z" duration-ms="2866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" started-at="2024-03-08T13:38:30Z" name="acConfig" finished-at="2024-03-08T13:38:31Z" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="as()[pri:0, instance:vtiger.lead_module.ToCreateALeadTest@5f354bcf]" started-at="2024-03-08T13:38:31Z" name="as" finished-at="2024-03-08T13:38:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- vtiger.lead_module.ToCreateALeadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
